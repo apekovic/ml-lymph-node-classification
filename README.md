@@ -5,7 +5,7 @@ Zadatak je uporedjivanje klasičnog i dubokog pristupa klasifikaciji slika.
 
 Izvor podataka i inspiracija za projekat: https://patchcamelyon.grand-challenge.org. 
 
-Uputstvo za skidanje fajlova:
+## **Uputstvo za skidanje fajlova**:
 Zbog veličine, dataset fajlovi ne mogu biti okačeni na github-u.
 Dostupni podaci (sa gore navedenog sajta) su u startu podeljeni na Train, Test i Validation fajlove, ali zbog prikaza postupaka, uzeti su Test fajlovi. \
 Skinuti sa linka https://drive.google.com/drive/folders/1gHou49cA1s5vua2V5L98Lt8TiWA3FrKB sledeća dva fajla:
