@@ -18,9 +18,7 @@ Izabrani su Test fajlovi zbog prihvatljive dimenzije, koja je takodje sa **32768
 * Stabla odlučivanja (*Decision trees*)
 * Naivni Bayes (*Naive Bayes*)
 * Metod potpornih vektora (*SVC*)
-
-## **Neuspešni pokušaji naprednijih modela klasičnog pristupa koji nisu uspeli da budu testirani i popravljani, već su samo zakomentarisani**:
-* Pojačavanje (*boosting*)
+* Pojačavanje (Boosting):
   1. Ada Boost
   2. XGBoost
   3. Gradient Boost
