@@ -5,9 +5,12 @@ Zadatak je uporedjivanje klasičnog i dubokog pristupa klasifikaciji slika.
 
 Izvor podataka i inspiracija za projekat: https://patchcamelyon.grand-challenge.org. 
 
-Dostupni podaci su u startu podeljeni na Train, Test i Validation fajlove, ali zbog prikaza postupaka, uzeti su Test fajlovi i preimenovani u:
+Dostupni podaci (sa gore navedenog sajta) su u startu podeljeni na Train, Test i Validation fajlove, ali zbog prikaza postupaka, uzeti su Test fajlovi i preimenovani u:
 * Camelyon_x.h5
 * Camelyon_y.h5 
+
+Zbog veličine tih fajlova, komitovani su u kompresovanom fajlu dataset.\
+Prilikom otpakivanja, voditi računa da to treba da bude folder u kom se nalaze fajlovi, jer je putanja za čitanje fajlova 'dataset/Camelyon_...h5'
 
 Izabrani su Test fajlovi zbog prihvatljive dimenzije, koja je takodje sa **32768** uzoraka smanjena na **12000** radi lakšeg treniranja modela. 
 
