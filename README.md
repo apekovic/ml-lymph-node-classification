@@ -37,3 +37,7 @@ Voditi računa da treba da budu sačuvani u folderu 'dataset', jer je putanja za
 * models: 
   1. classic_models
   2. deep_models
+
+## **Autor**
+Andrijana Peković
+1120/2020
