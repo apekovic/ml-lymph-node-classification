@@ -14,8 +14,6 @@ Skinuti sa linka https://drive.google.com/drive/folders/1gHou49cA1s5vua2V5L98Lt8
 
 Voditi računa da treba da budu sačuvani u folderu 'dataset', jer je putanja za čitanje fajlova 'dataset/Camelyon_x.h5' i 'dataset/Camelyon_y.h5'
 
-Izabrani su Test fajlovi zbog prihvatljive dimenzije, koja je takodje sa **32768** uzoraka smanjena na **12000** radi lakšeg treniranja modela. 
-
 ## **Klasični pristup**:
 * Logistička regresija (*Logistic regression*)
 * Slučajne šume (*Random forest*)
@@ -26,9 +24,16 @@ Izabrani su Test fajlovi zbog prihvatljive dimenzije, koja je takodje sa **32768
 * Pojačavanje (Boosting):
   1. Ada Boost
   2. XGBoost
-  3. Gradient Boost
 * Prosta agregacija (*bagging*)
 
 ## **Duboki pristup**:
 * Neuronske mreže (*ANN*)
 * Konvolutivne neuronske mreže (*CNN*)
+
+## **Folderi**
+* assets:
+  1. standard_scaler - Standardizovani podaci 
+  2. pictures - grafici izradjeni u toku projekta
+* models: 
+  1. classic_models
+  2. deep_models
