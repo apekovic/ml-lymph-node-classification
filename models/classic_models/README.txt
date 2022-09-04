@@ -1,0 +1,1 @@
+SVC i KNN klasifikatori zbog prevelike veličine nisu commit-ovani.
